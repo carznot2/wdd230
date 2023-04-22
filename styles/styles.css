@@ -48,9 +48,9 @@ footer {
   margin: 0 auto;
   background-color: navy;
   border: 6px solid orange;
-  color: orange;
+  color: white;
   text-align: center;
   padding: 60px;
-  font-size: 30px;
+  font-size: 15px;
   border-radius: 20px;
 }
