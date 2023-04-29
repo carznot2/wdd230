@@ -1,8 +1,11 @@
 * {
   box-sizing: border-box;
+  
 }
 body {
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: 'Baloo Tamma 2', Arial, sans-serif;
+  max-width: 900px;
+  margin: 0 auto;
 }
 
 header {
@@ -10,7 +13,7 @@ header {
   background-color: navy;
   gap: 140px;
   color: orange;
-  width: 1200px;
+  
   margin: 0 auto;
   border: 6px solid orange;
   align-items: center;
@@ -18,7 +21,7 @@ header {
 }
 
 img {
-  width: 300px;
+  width: 25%;
   border-radius: 20px 0px 0px 20px;
 }
 
@@ -27,7 +30,7 @@ h1 {
 }
 
 main {
-  width: 1200px;
+
   margin: 0 auto;
 
 }
@@ -44,7 +47,7 @@ ul li {
 
 
 footer {
-  width: 1200px;
+ 
   margin: 0 auto;
   background-color: navy;
   border: 6px solid orange;
