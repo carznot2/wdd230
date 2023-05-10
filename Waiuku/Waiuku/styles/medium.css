@@ -1,0 +1,17 @@
+@media screen and (min-width:800px)
+{
+    main
+    {
+        grid-template-rows: 1fr;
+        grid-template-columns: 100%;
+       }
+    #color_scheme {
+        display: flex;
+        flex-direction: row;
+    }
+    .personas {
+        display: flex;
+        gap: 20px;
+    }
+    
+} 
