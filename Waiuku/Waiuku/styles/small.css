@@ -139,7 +139,6 @@ footer
     margin-top: 30px;
 }
 
-}
 
 header h1 
 {
@@ -246,12 +245,25 @@ main img
 {
     background-color: #ffc145;
 }     
-
-
+#color-use 
+{
+    display: flex;
+    flex-direction: column;
+}
+#color-use p 
+{
+    width: 200px;
+    height: 100px;
+}
 footer 
 {
     text-align: center;
     background-color: #ffc145;
     padding: 20px;
     margin-top: 30px;
+}
+
+main h3 
+{
+    margin-left: 20px;
 }

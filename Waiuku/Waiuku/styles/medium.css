@@ -9,6 +9,9 @@
         display: flex;
         flex-direction: row;
     }
+    #color-use {
+        flex-direction: row;
+    }
     .personas {
         display: flex;
         gap: 20px;
